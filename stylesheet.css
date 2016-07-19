@@ -1,6 +1,8 @@
-header-site{
-   background-color: #000000;
-   background-image: url(https://openclipart.org/image/2400px/svg_to_png/242093/Vintage-Floral-Texture-Background.png); 
-   background-position: 100% 100%;
-   background-repeat: no-repeat;
-}
+h1 {font-family: cursive; color: #800000; }
+#banner {
+    background:url("http://www.travelhouse.by/wp-content/uploads/2015/02/16956-avtobusnyj-tur-v-angliyu-iz-minska-3.jpg");
+    width:10000px;
+    min-height:600px; background-repeat: no-repeat;
+   }
+   
+ em:lang(ko) { font-style: normal; text‑emphasis: dot; text‑emphasis‑position: over right; }
