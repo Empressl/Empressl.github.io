@@ -13,5 +13,11 @@ html {background-color: #9BF0E9;}
     color: 	#00008B;
 }
 h1:visited {
-    color:#00FFFF;
+    color:  #00FFFF;
 }
+a:link { text-decoration: none}
+ul { position: fixed;
+    top: 0;
+    width: 100%; color:#808080 }
+  li { display: inline;}
+  .bar li:hover { color: #A21406; }
