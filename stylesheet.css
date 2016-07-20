@@ -9,6 +9,9 @@ h1 {font-family: cursive; color: #A21406; }
 }
 html {background-color: #9BF0E9;}
         p lang(ko) { }
-    a:hover {
+    h1:hover {
     color: 	#00008B;
+}
+h1:visited {
+    color:#00FFFF;
 }
