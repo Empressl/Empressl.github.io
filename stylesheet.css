@@ -1,9 +1,14 @@
-h1 {font-family: cursive; color: #800000; }
+h1 {font-family: cursive; color: #A21406; }
 #banner {
-    background:url("http://www.travelhouse.by/wp-content/uploads/2015/02/16956-avtobusnyj-tur-v-angliyu-iz-minska-3.jpg");
+    background:url();
     width:10000%;
     min-height:600px; background-repeat: no-repeat;
    }
-   
+   body {background-image: url(https://i.ytimg.com/vi/INKShd86i1o/maxresdefault.jpg);
+  background-repeat:repeat;
+}
 html {background-color: #9BF0E9;}
-p lang(ko) {
+        p lang(ko) { }
+    a:hover {
+    color: 	#00008B;
+}
