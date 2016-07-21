@@ -1,7 +1,9 @@
-h1 {font-family: cursive; color: #DD577A}
+h1 {font-family: cursive; color: #DD577A; font-weight: bold;
+  font-size: 62px; text-align: center}
 #banner {
     background:url(http://wallpapersonthe.net/wallpapers/b/2560x1080/2560x1080-abstract_polyscape_photo_manipulation-3232.jpg);
-   width:10000%;
+  max-width:100%;
+max-height:100%;}  width:100%;
     min-height:800px; background-repeat: no-repeat;
    }
    body {background-color: #FFF0CF;
@@ -10,7 +12,7 @@ h1 {font-family: cursive; color: #DD577A}
 
         p lang(ko) { }
     h1:hover {
-    color: 	#000066;
+    color: 	#000066; 
 }
 h1:visited {
     color:  #00FFFF;
