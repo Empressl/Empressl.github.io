@@ -1,16 +1,16 @@
-h1 {font-family: cursive; color: #A21406; }
+h1 {font-family: cursive; color: #DD577A}
 #banner {
-    background:url();
-    width:10000%;
-    min-height:600px; background-repeat: no-repeat;
+    background:url(http://wallpapersonthe.net/wallpapers/b/2560x1080/2560x1080-abstract_polyscape_photo_manipulation-3232.jpg);
+   width:10000%;
+    min-height:800px; background-repeat: no-repeat;
    }
-   body {background-image: url(https://i.ytimg.com/vi/INKShd86i1o/maxresdefault.jpg);
+   body {background-color: #FFF0CF;
   background-repeat:repeat;
 }
-html {background-color: #9BF0E9;}
+
         p lang(ko) { }
     h1:hover {
-    color: 	#00008B;
+    color: 	#000066;
 }
 h1:visited {
     color:  #00FFFF;
