@@ -3,18 +3,7 @@ h1 {font-family: cursive; color: #DD577A; font-weight: bold;
 #banner {
     background:url(http://wallpapersonthe.net/wallpapers/b/2560x1080/2560x1080-abstract_polyscape_photo_manipulation-3232.jpg);
 width:100%;
-    min-height:8000px; background-repeat: no-repeat; background-size: 100% 867px;
-   }
-   .wrapper {
-    width: 100%;
-    overflow: hidden;
-}
-.container {
-    width: 100%;
-    margin: 0 auto;
-}
-.banner-img {
-    width: 100%;
+    min-height:800px; background-repeat: no-repeat; background-size: 100% 867px;
 }
    body {background-color: #FFF0CF;
   background-repeat:repeat;
@@ -31,9 +20,11 @@ a:link { text-decoration: none}
 ul { position: fixed;
     top: 0;
     width: 100%; color:#808080 }
-  li { display: inline;}
-  .nav :hover { color: #A21406; }
-  .nav
-{
-  background: url('bg.png') repeat;
+  li { display: inline;
+    background-color: transparent; color: #DD577A
 }
+.nav{    height: 40px;    width:auto;}
+.nav ul li{    list-style:none;    text-decoration:none;    display: inline-block;    padding: 10px;    padding-right:20px;    float: right;    }
+.nav ul li a {     text-decoration: none;    color:#FFF;    font-family:Calibri;    }
+.nav ul li a:hover {    color: #6be0d6;}
+.nav ul li a:active{    color: #6be0d6;    }
