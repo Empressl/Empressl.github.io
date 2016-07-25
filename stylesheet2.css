@@ -1,0 +1,19 @@
+#banner {
+    background:url(http://sitsitso.com/wp-content/uploads/2015/12/Aloe-Vera-Header-1.jpg);
+width:100%;
+    min-height:8000px; background-repeat: no-repeat; background-size: 100% 867px;
+   }
+   .wrapper {
+    width: 100%;
+    overflow: hidden;
+}
+.container {
+    width: 100%;
+    margin: 0 auto;
+}
+.banner-img {
+    width: 100%;
+}
+    body {background-color: #FFF0CF;
+  background-repeat:repeat;
+}
