@@ -23,8 +23,3 @@ ul { position: fixed;
   li { display: inline;
     background-color: transparent; color: #DD577A
 }
-.nav{    height: 40px;    width:auto;}
-.nav ul li{    list-style:none;    text-decoration:none;    display: inline-block;    padding: 10px;    padding-right:20px;    float: right;    }
-.nav ul li a {     text-decoration: none;    color:#FFF;    font-family:Calibri;    }
-.nav ul li a:hover {    color: #6be0d6;}
-.nav ul li a:active{    color: #6be0d6;    }
